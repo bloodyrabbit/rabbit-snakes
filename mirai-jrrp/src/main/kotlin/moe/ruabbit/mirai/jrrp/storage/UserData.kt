@@ -1,4 +1,4 @@
-package moe.ruabbit.jrrp
+package moe.ruabbit.mirai.jrrp.storage
 
 import kotlinx.serialization.Serializable
 import net.mamoe.mirai.console.data.AutoSavePluginData

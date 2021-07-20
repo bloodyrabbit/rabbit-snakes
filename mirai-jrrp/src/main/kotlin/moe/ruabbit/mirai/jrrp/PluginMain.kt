@@ -1,6 +1,6 @@
 package moe.ruabbit.mirai.jrrp
 
-import moe.ruabbit.jrrp.UserData
+import moe.ruabbit.mirai.jrrp.storage.UserData
 import net.mamoe.mirai.console.plugin.jvm.JvmPluginDescription
 import net.mamoe.mirai.console.plugin.jvm.KotlinPlugin
 import net.mamoe.mirai.console.plugin.version

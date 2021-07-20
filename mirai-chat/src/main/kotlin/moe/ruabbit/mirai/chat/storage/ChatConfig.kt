@@ -1,4 +1,4 @@
-package moe.ruabbit.mirai.chat.storge
+package moe.ruabbit.mirai.chat.storage
 
 import net.mamoe.mirai.console.data.ReadOnlyPluginConfig
 import net.mamoe.mirai.console.data.ValueDescription
